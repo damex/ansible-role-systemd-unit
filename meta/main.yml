@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  role_name: systemd-unit
+  author: Roman Kuzmitskii
+  description: systemd-unit role
+  license: GPLv2
+  min_ansible_version: 2.9
+  galaxy_tags:
+    - system
+    - systemd
+  platforms:
+    - name: "Debian"
+      versions:
+        - "buster"
+dependencies: []
